@@ -1,0 +1,6 @@
+.box {
+  @apply w-[150px] h-[150px] rounded-md;
+  @apply flex justify-center items-center;
+  @apply text-xl uppercase;
+  @apply transition-colors duration-300 ease-in-out;
+}
